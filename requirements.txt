@@ -1,0 +1,8 @@
+faiss-cpu
+torch
+numpy
+requests
+pymupdf
+transformers
+google-generativeai
+streamlit
